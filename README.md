@@ -3,7 +3,10 @@ This project showcases my ability to clean data using MySQL instead of altering 
 --- File 1: TableCreation ---
 Table Creation SQL script just shows the process of creating the new table in our database 'nashvillehousing'
 
---- File 2: NashvilleHousingDataCleaning ---
+--- File 2: housing_data.csv ---
+Raw data used for Data Cleaning Project
+
+--- File 3: NashvilleHousingDataCleaning ---
 This SQL script has five processes I used for Data Cleaning in the 'nashville_housing_data' Table
 0.) Step 0:
   Updated blanks in the column PropertyAddress to be NULL instead, as this would come in handy in Step 1
